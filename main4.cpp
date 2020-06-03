@@ -46,6 +46,11 @@ int main() {
 		printf("\nTottenham  0-2  Liverpool");
 		break;
 		
+	case 5:
+		printf("\n*********Campeon*********\n");
+		printf("\n********Liverpool********");
+		break;
+		
 
 	}
 	return 0;
